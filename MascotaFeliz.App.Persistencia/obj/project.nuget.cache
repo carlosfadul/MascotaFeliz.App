@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NdOZSSaguwPc7m15jIgD4s6ulhqVyaHohkSCHUZq+8+fGxAZWs1kIlQDm0vtAOpK8y73NjMs0FgifHWAm8nQhw==",
+  "success": true,
+  "projectFilePath": "C:\\Mascotas\\MascotaFeliz.App\\MascotaFeliz.App.Persistencia\\MascotaFeliz.App.Persistencia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CarlosFadul\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\CarlosFadul\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
